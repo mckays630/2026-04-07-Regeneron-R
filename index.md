@@ -334,7 +334,7 @@ change the value of `carpentry` to `incubator`.
   </tr>
   <tr> 
     <td>09:00</td>
-    <td>R Part 1 - Marina Lehmkuhl</td>
+    <td>R Part 1 - Zebulun Arendsee</td>
   </tr>
   <tr>
     <td>12:00</td>
