@@ -11,11 +11,11 @@ latitude: "41.079543"        # decimal latitude of workshop venue (use https://w
 longitude: "-73.822763"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "April 4, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30AM - 4:00PM EST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2024-04-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2024-04-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Marina Lehmkuhl", "Ayush Saxena"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Mohammed Hussain","Emily Lo","Norman Zhang"] 
-email: ["sheldon.mckay@regeneron.com"]  
+startdate: 2026-04-07      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2026-04-07        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Zebulun Arendsee", "Ayush Saxena"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Sheldon McKay","Huan Jin"] 
+email: ["zebulun.arendsee@regeneron.com"]  
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
