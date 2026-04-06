@@ -14,7 +14,7 @@ humantime: "8:30AM - 4:00PM EST"    # human-readable times for the workshop e.g.
 startdate: 2026-04-07      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2026-04-07        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Zebulun Arendsee", "Ayush Saxena"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Sheldon McKay","Huan Jin"] 
+helper: ["Sheldon McKay","Huan Jin","Haizi Zheng"] 
 email: ["zebulun.arendsee@regeneron.com"]  
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
